@@ -55,14 +55,16 @@ main {
 a:hover {
 	color:grey;
 }
-
 h1 {
 	color: #4aaaa5;
     font-family: 'Georgia', Times, Times New, serif;
     padding: 20px 20px 20px 0px;
     font-size: 20px;
     border-bottom: 2px solid #dddddd;
-    }
+}
+.card {
+    margin-bottom: 15px;
+}
 .footer {
     position: absolute;
     bottom: 0;
